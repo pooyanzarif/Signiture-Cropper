@@ -29,3 +29,8 @@ Create an empty directory and rename it to D2
 ```sh
 kasra.py -s D1 -d D2
 ```
+# Requirements
+- python 3
+- numpy
+- PIL
+- argparse
